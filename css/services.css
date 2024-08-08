@@ -1,0 +1,71 @@
+
+.image_9 {
+    width: 100%;
+    height: auto;
+}
+.services_taital {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.lorem_text {
+    margin: 20px 0;
+}
+.more_bt a {
+    background-color:#470005;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+h5{
+    font-weight: bold;
+    margin-bottom: -20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.statistics_section {
+    background-color: #f8f9fa;
+}
+.statistics_taital {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.statistic_box {
+    margin: 20px 0;
+}
+.statistic_number {
+    font-size: 48px;
+    font-weight: bold;
+    color: #000;
+}
+.statistic_text {
+    font-size: 18px;
+    color: #555;
+}
+
+.enquiries_section {
+    background-color: #ffffff;
+}
+.enquiries_taital {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.enquiries_text {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    margin: 10px;
+}
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    margin: 10px;
+}
